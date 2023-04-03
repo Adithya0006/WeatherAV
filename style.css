@@ -1,0 +1,33 @@
+/* ids */
+#wd{
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    left: 25px;
+}
+
+
+.heading{
+    background-color: blue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(https://wallpapers.com/images/featured/xqhs9axpy8btfd3y.jpg);
+    background-attachment: scroll; 
+    height: 220%;
+    max-height: max-content;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+#weatherin{
+    text-align: center;
+    color: white;
+    /* background-color: aqua; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+
+}
